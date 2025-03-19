@@ -1,5 +1,7 @@
 # Front-End Development: Essential Tools
 
+![Front-End Development Essential Tools by Anil Sidhu](https://media.licdn.com/dms/image/v2/D5612AQFSVrEIJxq_aA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1679683081898?e=2147483647&v=beta&t=jy1SUv24boZ0boUutFvP8a1cDXfXcvnHinVztXzqen4)
+
 A list of the most important tools every front-end developer should know and use. These tools will help streamline development, improve code quality, and enhance productivity.
 
 ## 🚀 Code Editors
