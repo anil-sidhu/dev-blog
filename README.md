@@ -3,7 +3,7 @@
 A list of the most important tools every front-end developer should know and use. These tools will help streamline development, improve code quality, and enhance productivity.
 
 ## 🚀 Code Editors
-- **Developer must have good command and understanding a at least one code editor.
+- **Developer must have good command and understanding a at least one code editor**.
 - *[VS Code](https://code.visualstudio.com/)* – Lightweight, fast, and extensible.
 - *[WebStorm](https://www.jetbrains.com/webstorm/)* – Powerful JavaScript IDE with built-in tools.
 
